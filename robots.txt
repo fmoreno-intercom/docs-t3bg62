@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-r5itas.pajaktoto33myr.cfd/sitemap.xml
